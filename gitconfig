@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dustinpstender@gmail.com
+	name = Dustin Stender
